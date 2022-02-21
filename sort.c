@@ -1,5 +1,5 @@
 #include <stdio.h>
-void sort (){
+void sort(){
    int num[20];
    int i, j, a, n;
    printf("enter number of elements in an array\n");
