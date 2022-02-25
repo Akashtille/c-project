@@ -1,5 +1,5 @@
 #include<stdio.h>    
-:void fibanaci()    
+void fibanaci()    
 {    
  int n1=0,n2=1,n3,i,number;    
  printf("Enter the number of elements:");    
