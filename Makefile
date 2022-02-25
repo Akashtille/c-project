@@ -8,7 +8,7 @@ fact.o:fact.c
 	gcc -c fact.c
 rev.o:rev.c
 	gcc -c rev.c
-big2.0:big2.c
+big2.o:big2.c
 	gcc -c big2.c
 fib.o:fib.c
 	gcc -c fib.c
